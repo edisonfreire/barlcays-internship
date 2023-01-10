@@ -1,0 +1,2 @@
+https://datatables.net/examples/advanced_init/events_live.html
+
